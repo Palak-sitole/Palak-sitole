@@ -1,6 +1,4 @@
-👋 Hi, I’m @Palak-sitole 
-👀 I’m interested in Web Development 
-🌱 I’m currently learning front end 
+
 
 
 
